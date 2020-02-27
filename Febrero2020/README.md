@@ -25,6 +25,7 @@ En esta platica vamos a hablar sobre Coroutine Channels y los distintos tipos de
 [From RxJava to Kotlin Flow: Stream Types](https://proandroiddev.com/from-rxjava-to-kotlin-flow-stream-types-7916be6cabc2)
 
 Create a Login and Register TornadoFX with MySQL
+
 [![Create a Login and Register TornadoFX with MySQL](resources/createloginandregisterkotlin.png)](https://www.youtube.com/watch?v=WOqHNy-UGfQ&feature=youtu.be)
 
 ##
