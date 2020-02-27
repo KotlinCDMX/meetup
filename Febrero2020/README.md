@@ -4,5 +4,5 @@
 
 ## Charlas 
 
-![Dinorah Tovar](resources/dinorah_tovar.jpg =250x250)
+![Dinorah Tovar](resources/dinorah_tovar.jpg {width=80px height=80px})
 
