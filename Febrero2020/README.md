@@ -26,8 +26,10 @@ En esta platica vamos a hablar sobre Coroutine Channels y los distintos tipos de
 
 [Create a Login and Register TornadoFX with MySQL](https://www.youtube.com/watch?v=WOqHNy-UGfQ&feature=youtu.be)
 
+##
+
 Use _indices_ property ;) 
 
 [![Kotlin Sample](https://pbs.twimg.com/tweet_video_thumb/ERnWJBOWkAYT_nO.jpg)](https://video.twimg.com/tweet_video/ERnWJBOWkAYT_nO.mp4)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Use the &#39;list.indices&#39; property instead of building an explicit range using &#39;0..list.length-1&#39; or &#39;0 until list.length&#39;. Iterating over all such ranges is optimized, so no additional IntRange objects for storing indexes are created under the hood. <a href="https://twitter.com/hashtag/KotlinTips?src=hash&amp;ref_src=twsrc%5Etfw">#KotlinTips</a> <a href="https://t.co/KAfOGpWPfM">pic.twitter.com/KAfOGpWPfM</a></p>&mdash; Kotlin (@kotlin) <a href="https://twitter.com/kotlin/status/1232251425868128257?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Use the &#39;list.indices&#39; property instead of building an explicit range using &#39;0..list.length-1&#39; or &#39;0 until list.length&#39;. Iterating over all such ranges is optimized, so no additional IntRange objects for storing indexes are created under the hood. <a href="https://twitter.com/hashtag/KotlinTips?src=hash&amp;ref_src=twsrc%5Etfw">#KotlinTips</a> <a href="https://t.co/KAfOGpWPfM">pic.twitter.com/KAfOGpWPfM</a></p>&mdash; Kotlin (@kotlin) <a href="https://twitter.com/kotlin/status/1232251425868128257?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote>
 
