@@ -16,7 +16,9 @@ En esta plática hablaremos de Domain specific language y como podemos usarlo en
 ### Diego Ramirez
 _Senior Android Developer en Distillery_
 
-**Channels Kotlin**
+[**Channels Kotlin**](https://docs.google.com/presentation/d/1t-ap1v8leDXcGkMC20o6_uLS6MfoOktvEBAfOCNVIqI/edit?usp=drivesdk)
+
+
 
 En esta platica vamos a hablar sobre Coroutine Channels y los distintos tipos de canales para transmisión de datos, entender como el emisor y el receptor funcionan dependiendo el tipo de channel y tal vez podamos dejar sin memoria a un dispositivo.
 
