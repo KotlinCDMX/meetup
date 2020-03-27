@@ -1,24 +1,19 @@
 # Kotlin Meetup Marzo 2020
 
-![Kotlin Meetup Banner](resources/banner)
+![Kotlin Meetup Banner](resources/banner.png)
 
 ## Charlas 
 
-### [ nombre ]
-_titulo_
+### [ Eddú Meléndez ]
+_Software Engineer en Nubank_
 
-[**Platica**](resources/slide)
+[**Consumer Driven Contract Testing con Spring Cloud Contract**](resources/slide)
 
-descripción de la platica
-
-##
-
-### [ nombre ]
-_titulo_
-
-[**Platica**](resources/slide)
-
-descripción de la platica
+En plena era de microservicios, escribir pruebas puede sonar sencillo ya que nos hacemos 
+responsables de solo un dominio. Pero, en el mundo real, las pruebas de los microservicios 
+pueden ser duras. En esta sesión, veremos cómo CDC Testing nos ayuda a mantener nuestros 
+servicios trabajando juntos. Estaremos explorando el proyecto Spring Cloud Contract 
+haciendo uso de Kotlin DSL.
 
 ## Kotlin Resources
 
