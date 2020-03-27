@@ -4,7 +4,7 @@
 
 ## Charlas 
 
-### [ Eddú Meléndez ]
+### Eddú Meléndez 
 _Software Engineer en Nubank_
 
 [**Consumer Driven Contract Testing con Spring Cloud Contract**](resources/slide)
@@ -17,17 +17,28 @@ haciendo uso de Kotlin DSL.
 
 ## Kotlin Resources
 
-[From RxJava to Kotlin Flow: Stream Types](https://proandroiddev.com/from-rxjava-to-kotlin-flow-stream-types-7916be6cabc2)
+[Exploring Kotlin/Native by Big Nerd Ranch](https://www.bignerdranch.com/blog/exploring-kotlin-native-part-1/)
 
-Create a Login and Register TornadoFX with MySQL
 
-[![Create a Login and Register TornadoFX with MySQL](resources/createloginandregisterkotlin.png)](https://www.youtube.com/watch?v=WOqHNy-UGfQ&feature=youtu.be)
+
+![Authorization for a Kotlin Spring backend, using JSON Web Tokens](https://itnext.io/authorization-for-a-kotlin-spring-backend-using-json-web-tokens-9f3c7b0d1ee7)
+
+[![Authorization for a Kotlin Spring backend, using JSON Web Tokens](resources/auth.png)](https://itnext.io/authorization-for-a-kotlin-spring-backend-using-json-web-tokens-9f3c7b0d1ee7)
+
+
+
+![Kotlin Vocabulary - Android Developers Youtube](http://youtube.com/watch?v=OyIRuxjBORY)
+
+[![Kotlin Vocabulary - Android Developers Youtube](resources/ktvocabularyYT.png)](http://youtube.com/watch?v=OyIRuxjBORY)
+
+
+
 
 ##
 
 Kotlin 1.3.70 released!!!
 
-![Kotlin 1.3.70](resources/kotlin1_3_70_released.png)
+![Kotlin 1.3.70](resources/k137release.png)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’ve just released Kotlin 1.3.70! Learn all about the new experimental functionality in the standard library and other improvements in our latest blog post <a href="https://t.co/jlyThHFgmb">https://t.co/jlyThHFgmb</a> <a href="https://t.co/md7Eqa5rLv">pic.twitter.com/md7Eqa5rLv</a></p>&mdash; Kotlin (@kotlin) <a href="https://twitter.com/kotlin/status/1234917943970009090?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote>
 
 
