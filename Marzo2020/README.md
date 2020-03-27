@@ -21,13 +21,13 @@ haciendo uso de Kotlin DSL.
 
 
 
-![Authorization for a Kotlin Spring backend, using JSON Web Tokens](https://itnext.io/authorization-for-a-kotlin-spring-backend-using-json-web-tokens-9f3c7b0d1ee7)
+[Authorization for a Kotlin Spring backend, using JSON Web Tokens](https://itnext.io/authorization-for-a-kotlin-spring-backend-using-json-web-tokens-9f3c7b0d1ee7)
 
 [![Authorization for a Kotlin Spring backend, using JSON Web Tokens](resources/auth.png)](https://itnext.io/authorization-for-a-kotlin-spring-backend-using-json-web-tokens-9f3c7b0d1ee7)
 
 
 
-![Kotlin Vocabulary - Android Developers Youtube](http://youtube.com/watch?v=OyIRuxjBORY)
+[Kotlin Vocabulary - Android Developers Youtube](http://youtube.com/watch?v=OyIRuxjBORY)
 
 [![Kotlin Vocabulary - Android Developers Youtube](resources/ktvocabularyYT.png)](http://youtube.com/watch?v=OyIRuxjBORY)
 
