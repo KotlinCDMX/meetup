@@ -19,6 +19,8 @@ haciendo uso de Kotlin DSL.
 
 [Exploring Kotlin/Native by Big Nerd Ranch](https://www.bignerdranch.com/blog/exploring-kotlin-native-part-1/)
 
+![[Exploring Kotlin/Native by Big Nerd Ranch](https://www.bignerdranch.com/blog/exploring-kotlin-native-part-1/)](resources/bignerdranch.png)
+
 
 
 [Authorization for a Kotlin Spring backend, using JSON Web Tokens](https://itnext.io/authorization-for-a-kotlin-spring-backend-using-json-web-tokens-9f3c7b0d1ee7)
@@ -64,6 +66,6 @@ fun main() {
 }
 ```
 
-![](resources/iwantitnow.gif)
+![How to 1.4](resources/iwantitnow.gif)
 
-![How to 1.4](https://kotlinlang.org/eap/install-eap-plugin.html?_ga=2.195523498.741204059.1585349604-1181474551.1546729213)
+[How to 1.4](https://kotlinlang.org/eap/install-eap-plugin.html?_ga=2.195523498.741204059.1585349604-1181474551.1546729213)
