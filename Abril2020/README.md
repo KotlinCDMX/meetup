@@ -4,7 +4,7 @@
 
 ## Charlas 
 
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="140" height="140">
+<img src="https://raw.githubusercontent.com/KotlinCDMX/meetup/master/Abril2020/resources/gaston.png" width="140" height="140">
 
 ### Gastón Saillen
 _Android Developer_
@@ -15,7 +15,7 @@ Vamos a explorar Firebase con sus distintas herramientas y vamos a ver como es a
 
 ##
 
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="140" height="140">
+<img src="https://raw.githubusercontent.com/KotlinCDMX/meetup/master/Abril2020/resources/lucas.png" width="140" height="140">
 
 ### Lucas Nobile
 _Senior Android Developer en Distillery_
@@ -26,7 +26,7 @@ Revisamos un conjunto de Kotlin snippets que podemos usar diariamente y que todo
 
 ##
 
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="140" height="140">
+<img src="https://raw.githubusercontent.com/KotlinCDMX/meetup/master/Abril2020/resources/mauro.jpg" width="140" height="140">
 
 ### Mauro Bocanegra
 _Senior Android Developer en Distillery_
