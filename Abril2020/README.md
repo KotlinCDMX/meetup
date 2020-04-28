@@ -1,6 +1,6 @@
 # Kotlin Meetup Abril 2020
 
-![Kotlin Meetup Banner](resources/KUGCDMXBANNER.png)
+<img src="https://raw.githubusercontent.com/KotlinCDMX/meetup/master/Abril2020/resources/KUGCDMXBANNER.png" width="900" height="200">
 
 ## Charlas 
 
