@@ -70,4 +70,3 @@ Cosas que debemos de evitar en Kotlin, Malas y peores prácticas y todo lo que n
 ![If/Else](resources/convertifelsetowhen.gif)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are the two branches of your if-else statement no longer enough? Transform your existing conditions into a more versatile when statement by using the intention &quot;Replace &#39;if&#39; with &#39;when&#39;&quot; <a href="https://twitter.com/hashtag/KotlinTips?src=hash&amp;ref_src=twsrc%5Etfw">#KotlinTips</a> <a href="https://t.co/DenDoQYaTf">pic.twitter.com/DenDoQYaTf</a></p>&mdash; Kotlin (@kotlin) <a href="https://twitter.com/kotlin/status/1252530100798722049?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
