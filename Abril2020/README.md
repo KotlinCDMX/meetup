@@ -9,7 +9,7 @@
 ### Gastón Saillen
 _Android Developer_
 
-[**Introducción a Firebase y casos de uso**]()
+[**Introducción a Firebase y casos de uso**](https://docs.google.com/presentation/d/1QfH-SeB7OxEVn7SNoEx-NgXBFqSDOzASMFObmtW-hVM/edit?usp=sharing)
 
 Vamos a explorar Firebase con sus distintas herramientas y vamos a ver como es aplicable a una app en Android para manejar nuestro backend. Vamos a charlar sobre datos en tiempo real, buenas prácticas de diseño, push notifications, crashlytics , analytics, funciones y mucho más!
 
@@ -20,7 +20,7 @@ Vamos a explorar Firebase con sus distintas herramientas y vamos a ver como es a
 ### Lucas Nobile
 _Senior Android Developer en Distillery_
 
-[**Kotlin Snippets FTW (For the Win)**]()
+[**Kotlin Snippets FTW (For the Win)**](https://docs.google.com/presentation/d/1PznwofG2wNkSYBcS_fCeZFyVeI2j10e3eeQ7Sfb1eJM/edit?usp=sharing)
 
 Revisamos un conjunto de Kotlin snippets que podemos usar diariamente y que todo Android dev necesita conocer.
 
@@ -31,7 +31,7 @@ Revisamos un conjunto de Kotlin snippets que podemos usar diariamente y que todo
 ### Mauro Bocanegra
 _Senior Android Developer en Distillery_
 
-[**Please KNo!**]()
+[**Please KNo!**](resources/PleaseKno.pdf)
 
 Cosas que debemos de evitar en Kotlin, Malas y peores prácticas y todo lo que no debe pasar en nuestro código Android.
 
